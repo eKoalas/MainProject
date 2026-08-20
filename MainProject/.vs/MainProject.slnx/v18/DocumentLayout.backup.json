@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HPRKST37\\Desktop\\MainProject-21.08.2026\\MainProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F915E8D-FD90-0BCC-41DC-DE74A73AF775}|MainProject\\MainProject.csproj|c:\\users\\hprkst37\\desktop\\mainproject-21.08.2026\\mainproject\\mainproject\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F915E8D-FD90-0BCC-41DC-DE74A73AF775}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F915E8D-FD90-0BCC-41DC-DE74A73AF775}|MainProject\\MainProject.csproj|c:\\users\\hprkst37\\desktop\\mainproject-21.08.2026\\mainproject\\mainproject\\services\\concrete\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F915E8D-FD90-0BCC-41DC-DE74A73AF775}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\services\\concrete\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F915E8D-FD90-0BCC-41DC-DE74A73AF775}|MainProject\\MainProject.csproj|c:\\users\\hprkst37\\desktop\\mainproject-21.08.2026\\mainproject\\mainproject\\services\\abstract\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F915E8D-FD90-0BCC-41DC-DE74A73AF775}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\services\\abstract\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F915E8D-FD90-0BCC-41DC-DE74A73AF775}|MainProject\\MainProject.csproj|c:\\users\\hprkst37\\desktop\\mainproject-21.08.2026\\mainproject\\mainproject\\dtos\\ticketdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F915E8D-FD90-0BCC-41DC-DE74A73AF775}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\dtos\\ticketdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F915E8D-FD90-0BCC-41DC-DE74A73AF775}|MainProject\\MainProject.csproj|c:\\users\\hprkst37\\desktop\\mainproject-21.08.2026\\mainproject\\mainproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F915E8D-FD90-0BCC-41DC-DE74A73AF775}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F915E8D-FD90-0BCC-41DC-DE74A73AF775}|MainProject\\MainProject.csproj|c:\\users\\hprkst37\\desktop\\mainproject-21.08.2026\\mainproject\\mainproject\\dtos\\updateticketstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F915E8D-FD90-0BCC-41DC-DE74A73AF775}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\dtos\\updateticketstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F915E8D-FD90-0BCC-41DC-DE74A73AF775}|MainProject\\MainProject.csproj|c:\\users\\hprkst37\\desktop\\mainproject-21.08.2026\\mainproject\\mainproject\\models\\requesthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F915E8D-FD90-0BCC-41DC-DE74A73AF775}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\models\\requesthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F915E8D-FD90-0BCC-41DC-DE74A73AF775}|MainProject\\MainProject.csproj|c:\\users\\hprkst37\\desktop\\mainproject-21.08.2026\\mainproject\\mainproject\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F915E8D-FD90-0BCC-41DC-DE74A73AF775}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F915E8D-FD90-0BCC-41DC-DE74A73AF775}|MainProject\\MainProject.csproj|c:\\users\\hprkst37\\desktop\\mainproject-21.08.2026\\mainproject\\mainproject\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F915E8D-FD90-0BCC-41DC-DE74A73AF775}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F915E8D-FD90-0BCC-41DC-DE74A73AF775}|MainProject\\MainProject.csproj|c:\\users\\hprkst37\\desktop\\mainproject-21.08.2026\\mainproject\\mainproject\\services\\abstract\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F915E8D-FD90-0BCC-41DC-DE74A73AF775}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\services\\abstract\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F915E8D-FD90-0BCC-41DC-DE74A73AF775}|MainProject\\MainProject.csproj|c:\\users\\hprkst37\\desktop\\mainproject-21.08.2026\\mainproject\\mainproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F915E8D-FD90-0BCC-41DC-DE74A73AF775}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\HPRKST37\\Desktop\\MainProject-21.08.2026\\MainProject\\MainProject\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "MainProject\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\HPRKST37\\Desktop\\MainProject-21.08.2026\\MainProject\\MainProject\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "MainProject\\Controllers\\TicketController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswHwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T10:51:48.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\HPRKST37\\Desktop\\MainProject-21.08.2026\\MainProject\\MainProject\\Services\\Concrete\\TicketService.cs",
+              "RelativeDocumentMoniker": "MainProject\\Services\\Concrete\\TicketService.cs",
+              "ToolTip": "C:\\Users\\HPRKST37\\Desktop\\MainProject-21.08.2026\\MainProject\\MainProject\\Services\\Concrete\\TicketService.cs",
+              "RelativeToolTip": "MainProject\\Services\\Concrete\\TicketService.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAwwIMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T10:49:01.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITicketService.cs",
+              "DocumentMoniker": "C:\\Users\\HPRKST37\\Desktop\\MainProject-21.08.2026\\MainProject\\MainProject\\Services\\Abstract\\ITicketService.cs",
+              "RelativeDocumentMoniker": "MainProject\\Services\\Abstract\\ITicketService.cs",
+              "ToolTip": "C:\\Users\\HPRKST37\\Desktop\\MainProject-21.08.2026\\MainProject\\MainProject\\Services\\Abstract\\ITicketService.cs",
+              "RelativeToolTip": "MainProject\\Services\\Abstract\\ITicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T10:48:25.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\HPRKST37\\Desktop\\MainProject-21.08.2026\\MainProject\\MainProject\\DTOs\\TicketDetailDto.cs",
+              "RelativeDocumentMoniker": "MainProject\\DTOs\\TicketDetailDto.cs",
+              "ToolTip": "C:\\Users\\HPRKST37\\Desktop\\MainProject-21.08.2026\\MainProject\\MainProject\\DTOs\\TicketDetailDto.cs",
+              "RelativeToolTip": "MainProject\\DTOs\\TicketDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T10:45:33.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateTicketStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\HPRKST37\\Desktop\\MainProject-21.08.2026\\MainProject\\MainProject\\DTOs\\UpdateTicketStatusDto.cs",
+              "RelativeDocumentMoniker": "MainProject\\DTOs\\UpdateTicketStatusDto.cs",
+              "ToolTip": "C:\\Users\\HPRKST37\\Desktop\\MainProject-21.08.2026\\MainProject\\MainProject\\DTOs\\UpdateTicketStatusDto.cs",
+              "RelativeToolTip": "MainProject\\DTOs\\UpdateTicketStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T06:46:56.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\HPRKST37\\Desktop\\MainProject-21.08.2026\\MainProject\\MainProject\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "MainProject\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\HPRKST37\\Desktop\\MainProject-21.08.2026\\MainProject\\MainProject\\Models\\Ticket.cs",
+              "RelativeToolTip": "MainProject\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T11:43:24.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\HPRKST37\\Desktop\\MainProject-21.08.2026\\MainProject\\MainProject\\Models\\Request.cs",
+              "RelativeDocumentMoniker": "MainProject\\Models\\Request.cs",
+              "ToolTip": "C:\\Users\\HPRKST37\\Desktop\\MainProject-21.08.2026\\MainProject\\MainProject\\Models\\Request.cs",
+              "RelativeToolTip": "MainProject\\Models\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T11:43:44.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RequestHistory.cs",
+              "DocumentMoniker": "C:\\Users\\HPRKST37\\Desktop\\MainProject-21.08.2026\\MainProject\\MainProject\\Models\\RequestHistory.cs",
+              "RelativeDocumentMoniker": "MainProject\\Models\\RequestHistory.cs",
+              "ToolTip": "C:\\Users\\HPRKST37\\Desktop\\MainProject-21.08.2026\\MainProject\\MainProject\\Models\\RequestHistory.cs",
+              "RelativeToolTip": "MainProject\\Models\\RequestHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T11:43:45.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\HPRKST37\\Desktop\\MainProject-21.08.2026\\MainProject\\MainProject\\Services\\Abstract\\IAuthService.cs",
+              "RelativeDocumentMoniker": "MainProject\\Services\\Abstract\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\HPRKST37\\Desktop\\MainProject-21.08.2026\\MainProject\\MainProject\\Services\\Abstract\\IAuthService.cs",
+              "RelativeToolTip": "MainProject\\Services\\Abstract\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T07:35:15.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\HPRKST37\\Desktop\\MainProject-21.08.2026\\MainProject\\MainProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MainProject\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\HPRKST37\\Desktop\\MainProject-21.08.2026\\MainProject\\MainProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MainProject\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T06:11:33.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HPRKST37\\Desktop\\MainProject-21.08.2026\\MainProject\\MainProject\\Program.cs",
+              "RelativeDocumentMoniker": "MainProject\\Program.cs",
+              "ToolTip": "C:\\Users\\HPRKST37\\Desktop\\MainProject-21.08.2026\\MainProject\\MainProject\\Program.cs",
+              "RelativeToolTip": "MainProject\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T06:04:02.081Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
